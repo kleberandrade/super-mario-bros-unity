@@ -17,7 +17,7 @@ Resultado da aula: [https://www.youtube.com/watch?v=38aR07qVS3A](https://www.you
 
 ### Aula 2 - Controle do personagem, câmera e user interface (UI)
 
-* Função básicas do MonoBehaviour
+* Funções básicas do MonoBehaviour
 * Sistema de entrada (Input)
 * Corpo rigído e colisores
 * Cinemachine
@@ -55,7 +55,8 @@ Resultado da aula:
 
 ## Referências
 
-* ____. Levels do jogo Super Mario Bros. Disponível em <[http://ian-albert.com/games/super_mario_bros_maps/](http://ian-albert.com/games/super_mario_bros_maps/)>. Acessado em 3 de Junho de 2020. 
+* ____. Levels do jogo Super Mario Bros. Disponível em <[https://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothers.html](https://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothers.html)>. Acessado em 3 de Junho de 2020. 
+* ____. Músicas e efeitos sonoros do jogo Super Mario Bros. Disponível em <[https://themushroomkingdom.net/media/smb/wav](https://themushroomkingdom.net/media/smb/wav)>. Acessado em 3 de Junho de 2020.
 
 ## Licença
 
