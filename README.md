@@ -13,11 +13,11 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 * Materiais, textures e normal map
 * Prefabs
 
-Resultado da aula: [https://www.youtube.com/watch?v=38aR07qVS3A](https://www.youtube.com/watch?v=38aR07qVS3A)
+Resultado da aula: [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
 
 ### Aula 2 - Controle do personagem, câmera e user interface (UI)
 
-* Scripts
+* Introdução as scripts
 * Física (Corpo rigído e colisores)
 * Câmera (Cinemachine)
 * UI (Canvas, Text e Image)
@@ -25,6 +25,11 @@ Resultado da aula: [https://www.youtube.com/watch?v=38aR07qVS3A](https://www.you
 Resultado da aula: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
 
 ### Aula 3 - Animação e audios
+
+* Animations (Mixamo)
+* Gestão de estados (Animator)
+* Músicas e Efeitos sonoros
+* Scripts para ativar músicas e animações
 
 Resultado da aula:
 
@@ -41,10 +46,22 @@ Resultado da aula:
 1. Desafios da aula 1
 * Finalizar a montagem do cenário conforme planilha do Excel;
 * Escolha um outro [level do jogo](http://ian-albert.com/games/super_mario_bros_maps/), crie e publique nas redes sociais;
+
 2. Desafios da aula 2
+* xxx
+* xxx
+
 3. Desafios da aula 3
+* xxx
+* xxx
+
 4. Desafios da aula 4
+* xxx
+* xxx
+
 5. Desafios da aula 5
+* xxx
+* xxx
 
 ## Professores
 
