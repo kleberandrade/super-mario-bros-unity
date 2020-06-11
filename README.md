@@ -17,13 +17,14 @@ Resultado da aula: [https://www.youtube.com/watch?v=38aR07qVS3A](https://www.you
 
 ### Aula 2 - Controle do personagem, câmera e user interface (UI)
 
-* Funções básicas do MonoBehaviour
+* Scripts
 * Sistema de entrada (Input)
-* Corpo rigído e colisores
-* Cinemachine
-* Canvas e Text
+* Física (Corpo rigído, colisores)
+* Layers
+* Câmera (Cinemachine)
+* UI (Canvas, Text e Image)
 
-Resultado da aula:
+Resultado da aula: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
 
 ### Aula 3 - Animação e audios
 
