@@ -18,9 +18,7 @@ Resultado da aula: [https://www.youtube.com/watch?v=38aR07qVS3A](https://www.you
 ### Aula 2 - Controle do personagem, câmera e user interface (UI)
 
 * Scripts
-* Sistema de entrada (Input)
-* Física (Corpo rigído, colisores)
-* Layers
+* Física (Corpo rigído e colisores)
 * Câmera (Cinemachine)
 * UI (Canvas, Text e Image)
 
