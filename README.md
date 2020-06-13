@@ -8,38 +8,55 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 
 ### Aula 1 - Apresentação e modelagem
 
+Conteúdo:
 * Interface e manipulação da Unity
 * Conceitos de modelagem usando ProBuilder e ProGrids
 * Materiais, textures e normal map
 * Prefabs
 
-Resultado da aula: [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
+Resultado 
+* [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
 
-### Aula 2 - Controle do personagem, câmera e user interface (UI)
+### Aula 2 - Controle do personagem
 
-* Introdução as scripts
-* Física (Corpo rigído e colisores)
-* Câmera (Cinemachine)
-* UI (Canvas, Text e Image)
+Conteúdo:
+* Scripts
+* Rigidbody
+* Colliders
+* Layers
 
-Resultado da aula: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
+Resultado:
+* [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
 
 ### Aula 3 - Animação e audios
 
-* Animations (Mixamo)
-* Gestão de estados (Animator)
+Conteúdo: 
+* Correções de bugs
+* Câmera (Cinemachine)
+* UI (Canvas, Text e Image)
 * Músicas e Efeitos sonoros
-* Scripts para ativar músicas e animações
 
-Resultado da aula:
+
+Resultado:
+* xxxx
 
 ### Aula 4 - Inimigos, objetos e powerups
 
-Resultado da aula:
+Conteúdo:
+* Animations (Mixamo)
+* Gestão de estados (Animator)
 
-### Aula 5 - Polimento
+Resultado:
+* xxxx
 
-Resultado da aula:
+### Aula 5 - Inimigos, objetos e powerups
+
+Conteúdo:
+* xxx
+* xxx
+
+Resultado:
+* xxxx
 
 ## Exercícios
 
@@ -48,8 +65,9 @@ Resultado da aula:
 * Escolha um outro [level do jogo](http://ian-albert.com/games/super_mario_bros_maps/), crie e publique nas redes sociais;
 
 2. Desafios da aula 2
-* xxx
-* xxx
+* Resolver o bug de colisão com os quadrados empilhados (o Mário gruda nos quadrados);
+* Adicionar audio para o pulo curto e longo
+* Fazer o Mario pegar a bandeira e descer com ela
 
 3. Desafios da aula 3
 * xxx
