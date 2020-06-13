@@ -76,7 +76,7 @@ Resultado da aula:
 
 ## Licença
 
-    Copyright 2019-2020 Kleber de Oliveira Andrade
+    Copyright 2020 Faculdade de Tecnologia de Americana
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
