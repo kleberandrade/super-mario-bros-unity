@@ -6,7 +6,7 @@ Protótipo do jogo Super Mario Bros desenvolvido para o curso se extensão sobre
 
 O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a desenvolver seu primeiro jogo (clone da primeira fase do Super Mario Bros).
 
-### Aula 1 - Apresentação e modelagem
+### Aula 1 - Level Design
 
 **Conteúdo**
 * Interface e manipulação da Unity
@@ -39,7 +39,7 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 * Versão 1.1: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
 * Versão 2.1: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
 
-### Aula 3 - Animação e audios
+### Aula 3 - Câmera, UI e Áudios
 
 **Conteúdo**
 * Correções de bugs
@@ -55,11 +55,14 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 **Resultados**
 * Versão 3.1: xxx 
 
-### Aula 4 - Inimigos, objetos e powerups
+### Aula 4 - Mecânicas do jogo
 
 **Conteúdo**
-* Animations (Mixamo)
-* Gestão de estados (Animator)
+* Programação do Goomba
+* Programação do Bloco de moedas
+* Programação do Bloco com items
+* Programação do Bloco surpresa
+* Programação do Bloco quebrável
 
 **Desafios**
 * xxxxx
@@ -69,13 +72,11 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 **Resultados**
 * Versão 4.1: xxx 
 
-### Aula 5 - Inimigos, objetos e powerups
+### Aula 5 - Polimento
 
 **Conteúdo**
-* xxx
-* xxx
-* xxx
-* xxx
+* Animations (Mixamo)
+* Gestão de estados (Animator)
 
 **Desafios**
 * xxxxx
