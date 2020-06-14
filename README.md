@@ -8,78 +8,82 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 
 ### Aula 1 - Apresentação e modelagem
 
-Conteúdo:
+**Conteúdo**
 * Interface e manipulação da Unity
 * Conceitos de modelagem usando ProBuilder e ProGrids
 * Materiais, textures e normal map
 * Prefabs
 
-Resultado 
-* [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
+**Desafios**
+* Finalizar a montagem do cenário conforme planilha do Excel;
+* Escolha um outro [level do jogo](http://ian-albert.com/games/super_mario_bros_maps/), crie e publique nas redes sociais;
+
+**Resultado**
+* Versão 1.1: [https://youtu.be/w_i5rYFAC_g](https://youtu.be/w_i5rYFAC_g)
+* Versão 1.2: [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
 
 ### Aula 2 - Controle do personagem
 
-Conteúdo:
+**Conteúdo**
 * Scripts
 * Rigidbody
 * Colliders
 * Layers
 
-Resultado:
-* [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
+**Desafios**
+* Resolver o bug de colisão com os quadrados empilhados (o Mário gruda nos quadrados);
+* Adicionar audio para o pulo curto e longo
+* Fazer o Mario pegar a bandeira e descer com ela
+
+**Resultado**
+* Versão 1.1: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
+* Versão 2.1: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
 
 ### Aula 3 - Animação e audios
 
-Conteúdo: 
+**Conteúdo**
 * Correções de bugs
 * Câmera (Cinemachine)
 * UI (Canvas, Text e Image)
 * Músicas e Efeitos sonoros
 
+**Desafios**
+* xxxxx
+* xxxxx
+* xxxxx
 
-Resultado:
-* xxxx
+**Resultados**
+* Versão 3.1: xxx 
 
 ### Aula 4 - Inimigos, objetos e powerups
 
-Conteúdo:
+**Conteúdo**
 * Animations (Mixamo)
 * Gestão de estados (Animator)
 
-Resultado:
-* xxxx
+**Desafios**
+* xxxxx
+* xxxxx
+* xxxxx
+
+**Resultados**
+* Versão 4.1: xxx 
 
 ### Aula 5 - Inimigos, objetos e powerups
 
-Conteúdo:
+**Conteúdo**
+* xxx
+* xxx
 * xxx
 * xxx
 
-Resultado:
-* xxxx
+**Desafios**
+* xxxxx
+* xxxxx
+* xxxxx
 
-## Exercícios
-
-1. Desafios da aula 1
-* Finalizar a montagem do cenário conforme planilha do Excel;
-* Escolha um outro [level do jogo](http://ian-albert.com/games/super_mario_bros_maps/), crie e publique nas redes sociais;
-
-2. Desafios da aula 2
-* Resolver o bug de colisão com os quadrados empilhados (o Mário gruda nos quadrados);
-* Adicionar audio para o pulo curto e longo
-* Fazer o Mario pegar a bandeira e descer com ela
-
-3. Desafios da aula 3
-* xxx
-* xxx
-
-4. Desafios da aula 4
-* xxx
-* xxx
-
-5. Desafios da aula 5
-* xxx
-* xxx
+**Resultados**
+* Versão 5.1: xxx 
 
 ## Professores
 
