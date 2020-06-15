@@ -6,62 +6,85 @@ Protótipo do jogo Super Mario Bros desenvolvido para o curso se extensão sobre
 
 O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a desenvolver seu primeiro jogo (clone da primeira fase do Super Mario Bros).
 
-### Aula 1 - Apresentação e modelagem
+### Aula 1 - Level Design
 
+**Conteúdo**
 * Interface e manipulação da Unity
 * Conceitos de modelagem usando ProBuilder e ProGrids
 * Materiais, textures e normal map
 * Prefabs
 
-Resultado da aula: [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
-
-### Aula 2 - Controle do personagem, câmera e user interface (UI)
-
-* Introdução as scripts
-* Física (Corpo rigído e colisores)
-* Câmera (Cinemachine)
-* UI (Canvas, Text e Image)
-
-Resultado da aula: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
-
-### Aula 3 - Animação e audios
-
-* Animations (Mixamo)
-* Gestão de estados (Animator)
-* Músicas e Efeitos sonoros
-* Scripts para ativar músicas e animações
-
-Resultado da aula:
-
-### Aula 4 - Inimigos, objetos e powerups
-
-Resultado da aula:
-
-### Aula 5 - Polimento
-
-Resultado da aula:
-
-## Exercícios
-
-1. Desafios da aula 1
+**Desafios**
 * Finalizar a montagem do cenário conforme planilha do Excel;
 * Escolha um outro [level do jogo](http://ian-albert.com/games/super_mario_bros_maps/), crie e publique nas redes sociais;
 
-2. Desafios da aula 2
-* xxx
-* xxx
+**Resultado**
+* Versão 1.1: [https://youtu.be/w_i5rYFAC_g](https://youtu.be/w_i5rYFAC_g)
+* Versão 1.2: [https://youtu.be/38aR07qVS3A](https://youtu.be/38aR07qVS3A)
 
-3. Desafios da aula 3
-* xxx
-* xxx
+### Aula 2 - Controle do personagem
 
-4. Desafios da aula 4
-* xxx
-* xxx
+**Conteúdo**
+* Scripts
+* Rigidbody
+* Colliders
+* Layers
 
-5. Desafios da aula 5
-* xxx
-* xxx
+**Desafios**
+* Resolver o bug de colisão com os quadrados empilhados (o Mário gruda nos quadrados);
+* Adicionar audio para o pulo curto e longo
+* Fazer o Mario pegar a bandeira e descer com ela
+
+**Resultado**
+* Versão 1.1: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
+* Versão 2.1: [https://youtu.be/EjvDBtKNVJE](https://youtu.be/EjvDBtKNVJE)
+
+### Aula 3 - Câmera, UI e Áudios
+
+**Conteúdo**
+* Correções de bugs
+* Câmera (Cinemachine)
+* UI (Canvas, Text e Image)
+* Músicas e Efeitos sonoros
+
+**Desafios**
+* xxxxx
+* xxxxx
+* xxxxx
+
+**Resultados**
+* Versão 3.1: xxx 
+
+### Aula 4 - Mecânicas do jogo
+
+**Conteúdo**
+* Programação do Goomba
+* Programação do Bloco de moedas
+* Programação do Bloco com items
+* Programação do Bloco surpresa
+* Programação do Bloco quebrável
+
+**Desafios**
+* xxxxx
+* xxxxx
+* xxxxx
+
+**Resultados**
+* Versão 4.1: xxx 
+
+### Aula 5 - Polimento
+
+**Conteúdo**
+* Animations (Mixamo)
+* Gestão de estados (Animator)
+
+**Desafios**
+* xxxxx
+* xxxxx
+* xxxxx
+
+**Resultados**
+* Versão 5.1: xxx 
 
 ## Professores
 
@@ -76,7 +99,7 @@ Resultado da aula:
 
 ## Licença
 
-    Copyright 2019-2020 Kleber de Oliveira Andrade
+    Copyright 2020 Faculdade de Tecnologia de Americana
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
