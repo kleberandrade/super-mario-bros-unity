@@ -80,10 +80,11 @@ public class PlayerMovement : MonoBehaviour
 
         if (m_IsJumping && m_JumpElapsedTime < m_JumpTime)
         {
-            m_JumpElapsedTime += Time.deltaTime;
+            m_JumpElapsedTime += Time.fixedDeltaTime;
             float proportionCompleted = Mathf.Clamp01(m_JumpElapsedTime / m_JumpTime);
             float currentForce = Mathf.Lerp(m_JumpForce, 0.0f, proportionCompleted);
-            m_Body.AddForce(Vector3.up * currentForce, ForceMode.Impulse);
+            
+            m_Body.AddForce(Vector3.up * currentForce * Time.fixedDeltaTime, ForceMode.VelocityChange);
         }
         else
         {
