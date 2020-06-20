@@ -51,6 +51,7 @@ O curso foi divido em 5 aulas de 4 horas cada, com a ideia de ensinar o aluno a 
 * Morrer ao cair no buraco e voltar para o início da fase
 * Entrar no castelo e mudar ir para a próxima fase
 * Morrer e perder vida
+* Corrigir a colisão dos pés
 
 **Resultados**
 * Versão 3.1: xxx 
