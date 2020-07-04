@@ -94,9 +94,18 @@ public class PlayerMovement : MonoBehaviour
 
     private void Move()
     {
-        float speed = m_IsRunning ? m_SpeedRun : m_SpeedMove;
-        m_Body.MovePosition(m_Body.position + m_Movement * speed * Time.fixedDeltaTime);
-        
+        if (m_Movement.x != 0.0f)
+        {
+            float speed = m_IsRunning ? m_SpeedRun : m_SpeedMove;
+            m_Body.MovePosition(m_Body.position + m_Movement * speed * Time.fixedDeltaTime);
+        }
+        else
+        {
+            var velocity = m_Body.velocity;
+            velocity.x = 0.0f;
+
+            m_Body.velocity = velocity;
+        }
     }
 
     private void Rotate()

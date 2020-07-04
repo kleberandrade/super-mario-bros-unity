@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 650165924140683256}
   - component: {fileID: 2183246423054065372}
   - component: {fileID: 6916180205048292301}
-  - component: {fileID: 3595186849366344562}
+  - component: {fileID: 5899866878416203964}
   m_Layer: 8
   m_Name: Brick
   m_TagString: Untagged
@@ -295,9 +295,17 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_IsSelectable: 1
-  m_SelectedFaces: 
-  m_SelectedEdges: []
-  m_SelectedVertices: 
+  m_SelectedFaces: 00000000
+  m_SelectedEdges:
+  - a: 0
+    b: 0
+  - a: 0
+    b: 0
+  - a: 0
+    b: 0
+  - a: 0
+    b: 0
+  m_SelectedVertices: 00000000000000000000000000000000
 --- !u!65 &2183246423054065372
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -358,8 +366,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  m_BounceAudioClip: {fileID: 0}
---- !u!114 &3595186849366344562
+--- !u!114 &5899866878416203964
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -371,6 +378,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10ffbefd526643c4aae93e6de9688a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Explosion: {fileID: 5975355007711563783, guid: 486017685854c0e419e63c9bf9d461b7,
+  m_Explosion: {fileID: 6206456495061335701, guid: 7322086a3c6a3c848a956ae5e8a9a92f,
     type: 3}
-  m_ExplosionAudioClip: {fileID: 0}

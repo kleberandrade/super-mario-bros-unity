@@ -2,7 +2,7 @@
 
 public class BreakableBrick : MonoBehaviour
 {
-    public GameObject m_Explosion;
+    public GameObject m_Explosion;  // <----
     private Bounds m_Bounds;
 
     private void Start()
@@ -12,14 +12,13 @@ public class BreakableBrick : MonoBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (!collision.gameObject.CompareTag("BigPlayer")) return;
+        if (!collision.gameObject.CompareTag("BigPlayer")) return;  // <----
 
-        var impact = collision.contacts[0].point;
-        var isBelowBrick = impact.y <= m_Bounds.min.y;
-        if (!isBelowBrick) return;
-
-        Instantiate(m_Explosion, transform.position, Quaternion.identity);
-        Destroy(gameObject);
+        Vector3 impact = collision.contacts[0].point;
+        if (impact.y <= m_Bounds.min.y)
+        {
+            Instantiate(m_Explosion, transform.position, Quaternion.identity);  // <----
+            Destroy(gameObject);  // <----
+        }
     }
 }
-
